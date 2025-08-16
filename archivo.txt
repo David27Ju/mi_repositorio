@@ -1,4 +1,4 @@
 def saludar():
-    print("Hola desde la rama principal (main)")
+    print("¡Saludos desde la nueva funcionalidad!")
 
 saludar()
