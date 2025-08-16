@@ -1,6 +1,4 @@
-Primer comentario  para commit
-Segundo comentario  para commit 
-Tercer comentario para subir a
-Comentario para realiza push
-prueba para hacer git pull
-Realizo comentario para modicar en rama nueva_funcionalidad
+def saludar():
+    print("¡Saludos desde la nueva funcionalidad!")
+
+saludar()
